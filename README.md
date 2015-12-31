@@ -1,1 +1,2 @@
-# llvm-tutorial
+# llvm简单教程
+  本教程主要为了个人学习总结，总结包括clang、llvm的原理、使用方法等
